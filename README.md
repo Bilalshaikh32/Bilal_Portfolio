@@ -1,4 +1,4 @@
-# Sheikh Muhammad Bilal — Neo-Luxe Portfolio
+# Sheikh Muhammad Bilal Portfolio
 
 ![Portfolio hero preview](assets/portfolio-preview.webp)
 
