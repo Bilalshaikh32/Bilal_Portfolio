@@ -1,0 +1,15 @@
+MTECH SOLUTIONS — FRONTEND INTERNSHIP, BATCH 01 / TASK 01
+
+Full Name: Sheikh Muhammad Bilal
+GitHub Portfolio Repository: [PASTE NEW PUBLIC PORTFOLIO REPOSITORY LINK]
+Live Website URL: [PASTE VERIFIED VERCEL OR NETLIFY URL]
+
+Project Note (2–4 lines):
+I developed a responsive personal developer portfolio using HTML5, CSS3 and JavaScript. It features a portrait hero, verified-claims project case studies, focused skills, theme switching, accessible project dialogs, responsive navigation and a validated contact form that prepares an email draft. The source is organized and accompanied by a README and an updated resume.
+
+SUBMISSION CHECKS:
+[ ] Both URLs are real public links, not placeholders.
+[ ] Live page opens from a signed-out/incognito browser.
+[ ] All buttons/links and contact draft behavior tested.
+[ ] Portfolio GitHub repository has the final README and no private project archives/credentials.
+[ ] Real screenshots are pending; portfolio uses labeled illustrative covers.
